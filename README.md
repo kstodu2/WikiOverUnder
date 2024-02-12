@@ -8,6 +8,7 @@ and asks the user whether they think that "Random Article Title" has more or few
 
 
 Future ideas:
+
 1: Implement a win streak.
 
 2: Make the GUI refresh dynamic instead of static.
