@@ -12,3 +12,5 @@ Future ideas:
 1: Implement a win streak.
 
 2: Make the GUI refresh dynamic instead of static.
+
+3. Revamp GUI to show results in interface and not the console.
